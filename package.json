@@ -1,0 +1,19 @@
+{
+  "name": "dp-backend",
+  "version": "1.0.0",
+  "description": "backend learning",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "author": "Durga Prasad",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
